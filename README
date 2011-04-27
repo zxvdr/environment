@@ -1,0 +1,9 @@
+Packages required:
+
+ghc-xmonad
+ghc-xmonad-devel
+ghc-xmonad-contrib
+ghc-xmonad-contrib-devel
+xmonad
+stalonetray
+xmobar
