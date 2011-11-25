@@ -1,0 +1,6 @@
+[Allow zxvdr libvirt management permissions]
+Identity=unix-user:zxvdr
+Action=org.libvirt.unix.manage
+ResultAny=yes
+ResultInactive=yes
+ResultActive=yes
