@@ -29,4 +29,5 @@ main = do
         , modMask    = mod4Mask     -- Rebind Mod to the Windows key
         } `additionalKeys`
         [ ((mod4Mask .|. shiftMask, xK_z), spawn "gnome-screensaver-command --lock")
+        , ((mod4Mask, xK_p), spawn "dmenu_run")
         ]
