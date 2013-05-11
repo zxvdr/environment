@@ -3,3 +3,7 @@ Packages required:
 i3
 i3status
 dmenu
+
+VIM config is managed by Vundle:
+
+https://github.com/gmarik/vundle
