@@ -1,5 +1,5 @@
 # do not bell on tab-completion
-#set bell-style none
+set bell-style none
 
 set completion-ignore-case on
 set meta-flag on

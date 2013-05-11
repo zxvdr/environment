@@ -1,3 +1,5 @@
 [user]
 	email = zxvdr.au@gmail.com
 	name = David Robinson
+[push]
+	default = simple

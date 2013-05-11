@@ -1,12 +1,5 @@
 Packages required:
 
-ghc-xmonad
-ghc-xmonad-devel
-ghc-xmonad-contrib
-ghc-xmonad-contrib-devel
-xorg-x11-xinit-session
-xmonad-gnome
-xmonad
-stalonetray
-xmobar
+i3
+i3status
 dmenu
